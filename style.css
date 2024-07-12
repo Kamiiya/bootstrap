@@ -1,0 +1,36 @@
+.formulario{
+    display: inline-block;
+}
+
+.card{
+    display: inline;
+}
+
+#hometext{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.display-4{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron{
+    background-color:#95e1fd
+}
+  
+body{
+    background-image: url("");
+    width: 100%; 
+    background-repeat: no-repeat;
+    
+}
+
+.kamiya-carousel{
+    width: 50%
+}
+
+.pro{
+    width: 50%;
+    height: 500px;
+}
